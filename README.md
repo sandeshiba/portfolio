@@ -2,7 +2,7 @@
 
 A responsive personal homepage built with React + Vite.
 
-**Live URL:** https://YOUR-PROJECT.vercel.app
+**Live URL:**https://portfolio-zeta-amber-83.vercel.app
 
 ## Run locally
 ```
